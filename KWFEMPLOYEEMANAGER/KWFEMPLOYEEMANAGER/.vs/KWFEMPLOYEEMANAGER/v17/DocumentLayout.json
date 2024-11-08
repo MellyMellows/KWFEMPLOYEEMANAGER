@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\clienttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clienttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\clienttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clienttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\serverovereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverovereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\serverhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\clientprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clientprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\clienttasks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clienttasks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\serverhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\serverovereview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverovereview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\serverhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\Visual Studio Code\\Source 2.1\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\serverovereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverovereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\servertasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:servertasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\servertasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:servertasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\serverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\serverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\kwfemployeemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:kwfemployeemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\clienthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clienthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\clientinquiries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clientinquiries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\clientinquiries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clientinquiries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|c:\\users\\admin\\source\\repos\\kwfemployeemanager zip\\kwfemployeemanager\\kwfemployeemanager\\clienthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0828-00A9-4F0E-93CE-4F989D91B108}|KWFEMPLOYEEMANAGER.csproj|solutionrelative:clienthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerHome.cs",
+              "RelativeDocumentMoniker": "ServerHome.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerHome.cs [Design]",
+              "RelativeToolTip": "ServerHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:23:25.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerOvereview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerOvereview.cs",
+              "RelativeDocumentMoniker": "ServerOvereview.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerOvereview.cs [Design]",
+              "RelativeToolTip": "ServerOvereview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:33:20.738Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientTasks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientTasks.cs",
+              "RelativeDocumentMoniker": "ClientTasks.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientTasks.cs [Design]",
+              "RelativeToolTip": "ClientTasks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:51:59.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientTasks.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientTasks.cs",
+              "RelativeDocumentMoniker": "ClientTasks.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientTasks.cs",
+              "RelativeToolTip": "ClientTasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:13:54.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerConsole.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerConsole.cs",
+              "RelativeDocumentMoniker": "ServerConsole.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerConsole.cs [Design]",
+              "RelativeToolTip": "ServerConsole.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:21:35.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientProfile.Designer.cs",
+              "RelativeDocumentMoniker": "ClientProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientProfile.Designer.cs",
+              "RelativeToolTip": "ClientProfile.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:17:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientTasks.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientTasks.Designer.cs",
+              "RelativeDocumentMoniker": "ClientTasks.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientTasks.Designer.cs",
+              "RelativeToolTip": "ClientTasks.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:17:22.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:17:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServerOvereview.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerOvereview.Designer.cs",
+              "RelativeDocumentMoniker": "ServerOvereview.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerOvereview.Designer.cs",
+              "RelativeToolTip": "ServerOvereview.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:08:56.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServerHome.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerHome.Designer.cs",
+              "RelativeDocumentMoniker": "ServerHome.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerHome.Designer.cs",
+              "RelativeToolTip": "ServerHome.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAswKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:35:53.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServerHome.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerHome.cs",
+              "RelativeDocumentMoniker": "ServerHome.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerHome.cs",
+              "RelativeToolTip": "ServerHome.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:23:41.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio Code\\Source 2.1\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Coding\\Visual Studio Code\\Source 2.1\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALcUAAAAAAAAAAAjwMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-20T21:15:59.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:21:57.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServerOvereview.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerOvereview.cs",
+              "RelativeDocumentMoniker": "ServerOvereview.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerOvereview.cs",
+              "RelativeToolTip": "ServerOvereview.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwEYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:28:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServerTasks.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerTasks.cs",
+              "RelativeDocumentMoniker": "ServerTasks.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerTasks.cs",
+              "RelativeToolTip": "ServerTasks.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:31:44.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerProfile.cs",
+              "RelativeDocumentMoniker": "ServerProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerProfile.cs",
+              "RelativeToolTip": "ServerProfile.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:30:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServerConsole.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerConsole.cs",
+              "RelativeDocumentMoniker": "ServerConsole.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerConsole.cs",
+              "RelativeToolTip": "ServerConsole.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAxwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:26:51.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:46:12.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KWFEMPLOYEEMANAGER.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER.csproj",
+              "RelativeDocumentMoniker": "KWFEMPLOYEEMANAGER.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER.csproj",
+              "RelativeToolTip": "KWFEMPLOYEEMANAGER.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T11:29:55.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientProfile.cs",
+              "RelativeDocumentMoniker": "ClientProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientProfile.cs",
+              "RelativeToolTip": "ClientProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:21:04.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientInquiries.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientInquiries.cs",
+              "RelativeDocumentMoniker": "ClientInquiries.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientInquiries.cs",
+              "RelativeToolTip": "ClientInquiries.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:11:20.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClientHome.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientHome.cs",
+              "RelativeDocumentMoniker": "ClientHome.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientHome.cs",
+              "RelativeToolTip": "ClientHome.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:05:15.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServerProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerProfile.cs",
+              "RelativeDocumentMoniker": "ServerProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER\\ServerProfile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\KWFEMPLOYEEMANAGER\\ServerProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:22:50.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServerTasks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ServerTasks.cs",
+              "RelativeDocumentMoniker": "ServerTasks.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER\\ServerTasks.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\KWFEMPLOYEEMANAGER\\ServerTasks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:20:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\KWFEMPLOYEEMANAGER\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientProfile.cs",
+              "RelativeDocumentMoniker": "ClientProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER\\ClientProfile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\KWFEMPLOYEEMANAGER\\ClientProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:20:35.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClientInquiries.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientInquiries.cs",
+              "RelativeDocumentMoniker": "ClientInquiries.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER\\ClientInquiries.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\KWFEMPLOYEEMANAGER\\ClientInquiries.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:54:38.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER zip\\KWFEMPLOYEEMANAGER\\KWFEMPLOYEEMANAGER\\ClientHome.cs",
+              "RelativeDocumentMoniker": "ClientHome.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KWFEMPLOYEEMANAGER\\ClientHome.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\KWFEMPLOYEEMANAGER\\ClientHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:49:16.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
